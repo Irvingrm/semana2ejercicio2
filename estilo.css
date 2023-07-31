@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+
+
+#column {
+    column-count: 2;
+}
+
